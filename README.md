@@ -18,4 +18,4 @@
 
 ### Resutados
 
-resultado.png
+<resultado.png>
