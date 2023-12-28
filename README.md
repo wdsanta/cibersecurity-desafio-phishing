@@ -18,4 +18,4 @@
 
 ### Resutados
 
-<resultado.png>
+![Alt text](./resultado.png "Optional title")
